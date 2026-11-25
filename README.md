@@ -83,6 +83,8 @@ npm run dev
 
 ## 6. Project Structure
 
+## 2. Project Structure
+
 ```
 Patient-Admission-Management-App/
 ├── backend/
@@ -106,15 +108,17 @@ Patient-Admission-Management-App/
 │   ├── index.html
 │   ├── package.json
 │   └── vite.config.js
+├── screenshots/
+│   ├── Dashboard.png
+│   ├── New patient form.png
+│   ├── Filter by department.png
+│   └── Filter by ward.png
 ├── .gitignore
 └── README.md
 ```
-
 ---
 
 ## 7. Live Links
-
--## 7. Live Links
 
 - **Frontend: https://patient-admission-management-app-production.up.railway.app
 - **Backend API: https://patient-admission-management-app-production-e83b2826.up.railway.app
