@@ -16,5 +16,5 @@ frontend/dist-ssr/
 .idea/
 *.swp
 
-# SQLite database file (keep or ignore per deployment preference)
+# SQLite database file
 backend/patients.db
