@@ -109,9 +109,9 @@ Patient-Admission-Management-App/
 
 -## 7. Live Links
 
-- **Frontend:** To be added after deployment.
-- **Backend API:** To be added after deployment.
-- **API Documentation:** To be added after deployment.
+- **Frontend: https://patient-admission-management-app-production.up.railway.app
+- **Backend API: https://patient-admission-management-app-production-e83b2826.up.railway.app
+- **API Documentation: https://patient-admission-management-app-production-e83b2826.up.railway.app/docs
 
 ---
 
