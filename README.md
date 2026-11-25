@@ -121,5 +121,5 @@ Patient-Admission-Management-App/
 *![Patient Admission Dashboard](Dashboard.png)*
 
 2. New patient form
-*![New Patient Form](New-Patient.png)
+*![New Patient Form](New%20patient%20form)
 
