@@ -17,6 +17,13 @@ A responsive web application designed to simplify hospital patient admissions, m
 - Python 3.9+
 - Node.js 20+
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/AnkithaG302/Patient-Admission-Management-App.git
+cd Patient-Admission-Management-App
+```
+
 ### Backend Setup
 ```bash
 cd backend
