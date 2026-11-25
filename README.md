@@ -117,4 +117,9 @@ Patient-Admission-Management-App/
 
 ## 8. Screenshots
 
+1.Dashboard 
 *![Patient Admission Dashboard](Dashboard.png)*
+
+2. New patient form
+*![New Patient Form](New-Patient.png)
+
