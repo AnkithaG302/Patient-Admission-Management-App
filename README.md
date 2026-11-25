@@ -123,3 +123,10 @@ Patient-Admission-Management-App/
 2. New patient form
 *![New Patient Form](New%20patient%20form.png)*
 
+3.Filter by department
+*![Filter by Department](Filter%20by%20department.png)*
+
+4.Filter by ward
+*![Filter by Ward](Filter%20by%20ward.png)*
+
+
