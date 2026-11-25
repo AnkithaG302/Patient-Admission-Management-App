@@ -117,4 +117,4 @@ Patient-Admission-Management-App/
 
 ## 8. Screenshots
 
-*![Patient Admission Dashboard](dashboard.png)*
+*![Patient Admission Dashboard](Dashboard.png)*
